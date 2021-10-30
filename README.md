@@ -12,8 +12,12 @@
   
 ## Description
 ### Used technologies:
-BackEnd will be written using Java Servlet API and Java programing language.
-Database provider - My SQL
+BackEnd will be written by:
+### Java Servlet API
+### Java programing language.
+
+Database system:
+### My SQL
 
 ### Idea
 Our team decided to develop a web page that helps you choose a tour to your favorite country by booking a hotel.
