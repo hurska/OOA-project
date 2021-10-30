@@ -12,9 +12,8 @@
   
 ## Description
 ### Used technologies:
-BackEnd will be written by:
+- Java programing language
 - Java Servlet API
-- Java programing language.
 
 Database system:
 - My SQL
