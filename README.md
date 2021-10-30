@@ -1,5 +1,5 @@
-# Tourfirm
-![](/images/logo.png)
+# Team DiNO
+![logo](/images/tourfirmlogo.png)
 
 ## Table of Contents
 - [Team](#team)
