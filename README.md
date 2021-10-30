@@ -13,11 +13,11 @@
 ## Description
 ### Used technologies:
 BackEnd will be written by:
-### Java Servlet API
-### Java programing language.
+- Java Servlet API
+- Java programing language.
 
 Database system:
-### My SQL
+- My SQL
 
 ### Idea
 Our team decided to develop a web page that helps you choose a tour to your favorite country by booking a hotel.
