@@ -48,7 +48,8 @@ User authenticated.
  - Can choose price from/to
  - Can view own booking
  - Can see all available hotels
- Role: Admin
+ 
+Role: Admin
 
  Description:
  - Can view hotels statistics (average booking time, visitors, name of hotel, photo)
