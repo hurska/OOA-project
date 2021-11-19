@@ -21,7 +21,7 @@ Database system:
 ### Idea
 Our team decided to develop a web system that helps you choose a tour to your favorite country by booking a hotel.
 
-###Functional Requirements
+### Functional Requirements
 The application should:
 
 Registration an account for new user
@@ -33,7 +33,7 @@ For Admin User browse Hotels and Users statistics(average booking time, visitors
 Possibility to add VISA
 User-friendly interface
 
-###Identity Management
+### Identity Management
 Users can create an account with the login information stored in database.
 
 Types of roles: User, Admin.
