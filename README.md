@@ -50,6 +50,6 @@ User authenticated.
  Role: Admin
  Description:
  - Can view hotels statistics (average booking time, visitors, name of hotel, photo)
- - Can view users statistics ()
+ - Can view users statistics (how much hotels were booked by user)
  - Can be displayed on leaderboard;
  - Can add Visas
