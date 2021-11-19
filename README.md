@@ -39,6 +39,7 @@ Users can create an account with the login information stored in database.
 Types of roles: User, Admin.
 
 Role: User
+
 Description:
 User authenticated.
  - Can sort hotels
@@ -48,6 +49,7 @@ User authenticated.
  - Can view own booking
  - Can see all available hotels
  Role: Admin
+
  Description:
  - Can view hotels statistics (average booking time, visitors, name of hotel, photo)
  - Can view users statistics (how much hotels were booked by user)
