@@ -21,6 +21,9 @@ Database system:
 ### Idea
 Our team decided to develop a web system that helps you choose a tour to your favorite country by booking a hotel.
 
+### Presentation:
+[Presentation link](https://docs.google.com/presentation/d/1KvvYnEh1BUez1YSDtTKKG9GYkAA4XWfHuvMrzx7FDiY)
+
 ### Functional Requirements
 The application should:
 
