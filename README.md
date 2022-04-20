@@ -12,8 +12,8 @@
   
 ## Description
 ### Used technologies:
-- Java programing language
-- Java Servlet API
+- PHP programing language
+- Apache Web Server
 
 Database system:
 - My SQL
